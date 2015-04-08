@@ -1,5 +1,8 @@
 #Data Sources
 A list of websites with open data sources.
+##All subjects
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html) - а collection of more than 300 databases used by the machine learning community for the empirical analysis of machine learning algorithms.
+
 ##Astronomy
 * [sdss.org](http://sdss.org) - the most detailed 3D maps of the Universe ever made. More than 3 mln astronomical objects.
 
